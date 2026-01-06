@@ -1,5 +1,7 @@
 {
   "projects": {
     "default": "vaccinereminderapp-6777d"
-  }
+  },
+  "targets": {},
+  "etags": {}
 }
